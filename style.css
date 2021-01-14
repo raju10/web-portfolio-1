@@ -1,0 +1,47 @@
+.header {
+  background-color: #fffbf0;
+}
+.single-card {
+  border-radius: 20px;
+}
+.men-women-jackets-img {
+  height: 400px;
+
+  background-color: #f1f1f1;
+}
+.men-women-jackets-img img {
+  max-height: 100%;
+}
+.box {
+  margin: auto;
+}
+.box img {
+  border-radius: 20px;
+}
+.men-women-jackets-contain h5 {
+  font-size: 30px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+.men-women-jackets-footer h2 {
+  color: orange;
+  font-weight: 650;
+  font-size: 40px;
+}
+.btn-1 {
+  background-color: teal;
+  color: white;
+  border: none;
+  padding: 10px 17px;
+  border-radius: 10px;
+}
+.ooo {
+  width: 140px;
+  margin: auto;
+}
+.ooo img {
+  max-width: 100%;
+}
+.s-box {
+  border-radius: 20px;
+}
