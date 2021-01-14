@@ -45,3 +45,22 @@
 .s-box {
   border-radius: 20px;
 }
+#footer {
+  background-color: #f64747;
+}
+input {
+  background-color: #f75555;
+  border: 1px solid #ffffff42;
+  color: white;
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 263px;
+}
+input::placeholder {
+  color: #ffffff87;
+  padding-left: 20px;
+}
+.message input {
+  padding-top: ;
+}
