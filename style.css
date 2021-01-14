@@ -93,7 +93,7 @@ input {
   border-radius: 20px;
   padding-top: 10px;
   padding-bottom: 10px;
-  padding-right: 263px;
+  padding-right: 202px;
 }
 
 input::placeholder {
@@ -103,7 +103,7 @@ input::placeholder {
 .message input {
   padding-top: 10px;
   padding-bottom: 60px;
-  padding-right: 263px;
+  padding-right: 200px;
 }
 
 .social i {
